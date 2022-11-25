@@ -26,7 +26,7 @@ Examples of projects that we'd like to see are included here.
 
 1. winner 1000
 2. runner up 500
-3. pool 1500  (show up for both full days, submit a project, equally distributed amongst attendees
+3. pool 1500  (show up for both full days, submit a project, equally distributed amongst qualifying groups)
 
 ## Judging 
 

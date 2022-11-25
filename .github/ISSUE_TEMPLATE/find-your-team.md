@@ -1,6 +1,6 @@
 ---
-name: Find Your Team
-about: Team Formation
+name: Team Formation
+about: Find your team.
 title: "[team]"
 labels: help wanted
 assignees: ''

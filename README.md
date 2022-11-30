@@ -4,7 +4,18 @@ Welcome to Accelerate Atlanta! Helpful FAQ's are included below.
 
 ## WTF is Koii?
 
-Include links here for prereqs and building.
+Koii is a decentralized network of nodes. Your first point of reference should be the [docs](https://docs.koii.network/) Hackers can interact with these nodes via [the task node test enviornent](https://docs.koii.network/microservices-and-tasks/what-are-tasks). Koii has attention mining properties which allow users to [mine and earn koii via any online published content with a few lines of code](https://docs.koii.network/earning-koii/attention-mining).  There is also a suite of dev tools for interacting with decentralized storage. Lastly Koii has [UI templates](https://docs.koii.network/build-dapps-with-koii/template-library) for builidng out a decentralized app front end and fully funcitonal boilerpates for a crowdfunding and leaderboard app.
+
+Hackers should aim to build project utilizing the task node or the attention mining properties of Koii.
+
+Prereqs:
+
+Hackers should understand decentralized computing and javascript basics conceptually. Below are some resources to get up to speed on building with Koii:
+
+https://nodejs.dev/en/learn/
+https://docs.ipfs.tech/concepts/what-is-ipfs/
+https://web3.storage/docs/
+
 
 ## How to Participate?
 
@@ -49,12 +60,11 @@ Use IPFS and Koii to preserve knowledge or information about current affairs, en
 * Bonus Points: You may want to use a Content Collective for this Task
 
 
-
 ## Prizes
 
 
 1. winner 1500  
-2. pool 1500  (equally distributed amongst qualifying groups) 
+2. in person pool 1500  (equally distributed amongst qualifying groups) 
 
 
 ## Judging 

@@ -1,6 +1,7 @@
 # Hello World 
 
-Welcome to Accelerate Atlanta! Helpful FAQ's are included below.
+Welcome to Accelerate Atlanta! 
+This hackathon will kickoff in person from 9 am - 8 pm Dec 3rd - 8 am - 4pm Dec 4th at the Atlanta Blockchain Center.  Participants can also join virtually. Hackers will have 2 weeks following the hackathon to submit their final project. 
 
 ## WTF is Koii?
 

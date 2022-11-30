@@ -24,7 +24,30 @@ Anyone who is interested in web3 and values community is welcome and encouraged 
 
 Projects must be open source and submitted via github. You dont have to be a developer, but you must utilize Koii network in a both meaningful and feasiable way. 
 
-Examples of projects that we'd like to see are included here.
+Examples of projects that we'd like to see are included below:
+
+Free the Data
+Use Koii nodes to query a common data source (API, Website, etc)
+Store that data on IPFS (using the built-in Web3.Storage Integration)
+Provide an interesting index of the data that users might find valuable
+
+
+* Bonus Points: Describe how Attention Tracking could be beneficial in this case, either to mine tokens that can be used to pay nodes to gather more information, or as an incentive to gather the right information.
+
+
+Level the Playing Field
+Similar to (1), but try to focus on areas where information is less available, or certain communities are underserved by the current internet infrastructure.
+
+
+Design a Content Collective
+Similar to (1), but nodes receive a share of rewards based on the attention their contributions generate
+More info on Content Collectives: Content Collectives Blog Post and Whitepaper
+
+
+No Longer Will The Winners Write History (Free Speech)
+Use IPFS and Koii to preserve knowledge or information about current affairs, ensuring that many perspectives are available when history is reviewed by future generations
+* Bonus Points: You may want to use a Content Collective for this Task
+
 
 
 ## Prizes

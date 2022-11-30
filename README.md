@@ -7,7 +7,7 @@ This hackathon will kickoff in person from 9 am - 8 pm Dec 3rd - 8 am - 4pm Dec 
 
 Koii is a decentralized network of nodes. Your first point of reference should be the [docs](https://docs.koii.network/) Hackers can interact with these nodes via [the task node test enviornent](https://docs.koii.network/microservices-and-tasks/what-are-tasks). Koii has attention mining properties which allow users to [mine and earn koii via any online published content with a few lines of code](https://docs.koii.network/earning-koii/attention-mining).  There is also a suite of dev tools for interacting with decentralized storage. Lastly Koii has [UI templates](https://docs.koii.network/build-dapps-with-koii/template-library) for builidng out a decentralized app front end and fully funcitonal boilerpates for a crowdfunding and leaderboard app.
 
-Hackers should aim to build project utilizing the task node or the attention mining properties of Koii.
+Hackers should aim to build projects utilizing the task node or the attention mining properties of Koii.
 
 Prereqs:
 

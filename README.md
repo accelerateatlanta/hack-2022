@@ -32,6 +32,29 @@ There will be support from Koii team members both irl and virtually to help with
 
 Anyone who is interested in web3 and values community is welcome and encouraged to apply.
 
+## Schedule
+
+12/3
+
+9:00 am - Check in + Breakfast Networking
+
+10:00 am - kickoff w/ speakers
+
+11:00 am - 1:00 pm - Team Match + Hacking Begins
+
+1:00pm - Lunch
+
+6:00 -  Dinner
+
+8:00 - End of Day
+
+12/4 
+
+8:00 - 2:00pm - Breakfast + Hack + VC meetngreet
+
+2:00 - 4:00 pm - Presentations + Lunch
+
+
 ## Projects
 
 Projects must be open source and submitted via github. You dont have to be a developer, but you must utilize Koii network in a both meaningful and feasiable way. 

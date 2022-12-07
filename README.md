@@ -54,6 +54,12 @@ Anyone who is interested in web3 and values community is welcome and encouraged 
 
 2:00 - 4:00 pm - Presentations + Lunch
 
+12/19 
+
+12:00 am est - Final Submissions Due
+
+Allow 2 weeks for judging, follow up questions, and prizes to be sent out.
+
 
 ## Projects
 
@@ -87,8 +93,9 @@ Use IPFS and Koii to preserve knowledge or information about current affairs, en
 ## Prizes
 
 
-1. winner 1500  
-2. In person pool 1500  (equally distributed amongst qualifying groups) 
+1. winner $1500  
+2. 2nd place $1000
+3. 3rd $500
 
 
 ## Judging 

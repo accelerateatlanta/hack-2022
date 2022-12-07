@@ -28,6 +28,8 @@ The recommended teamsize is between 2-5. Between the github, telegram, and in pe
 
 There will be support from Koii team members both irl and virtually to help with your projects. 
 
+Submit your projects [here](https://forms.gle/xVRu5B7zgRZHQ5fM7).
+
 ## Who can hack?
 
 Anyone who is interested in web3 and values community is welcome and encouraged to apply.
@@ -63,7 +65,7 @@ Allow 2 weeks for judging, follow up questions, and prizes to be sent out.
 
 ## Projects
 
-Projects must be open source and submitted via github. You dont have to be a developer, but you must utilize Koii network in a both meaningful and feasiable way. 
+Projects must be open source and submitted via github. You dont have to be a developer, but you must utilize Koii network in a both meaningful and feasiable way. Submit a 3-5 minute video along with all relevant links [here[(https://forms.gle/xVRu5B7zgRZHQ5fM7) by 12/19/2022.
 
 Examples of projects that we'd like to see are included below:
 

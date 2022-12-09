@@ -22,7 +22,7 @@ https://web3.storage/docs/
 
 The hackathon will kickoff in person from Dec 3rd 9 am - 8 pm to Dec 4th 8am - 4 pm. 
 
-[Create a new issue](https://github.com/accelerateatlanta/hack-2022/issues/new/choose) using the repo's issue tracker to introduce yourself, form a team, or pitch your project additionally we have a [discord](https://discord.gg/dWXfegEG). 
+[Create a new issue](https://github.com/accelerateatlanta/hack-2022/issues/new/choose) using the repo's issue tracker to introduce yourself, form a team, or pitch your project additionally we have a [discord](https://discord.gg/QsnxbtPJ). 
 
 The recommended teamsize is between 2-5. Between the github, telegram, and in person. There will be plenty of opportunites for building out your team. 
 
